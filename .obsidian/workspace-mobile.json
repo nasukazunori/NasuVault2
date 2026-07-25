@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "仕事/シミュラクラ.md",
+                "file": "大貴/大貴の強み.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "シミュラクラ"
+              "title": "大貴の強み"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "仕事/シミュラクラ.md",
+            "file": "大貴/大貴の強み.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "仕事/シミュラクラ.md",
+            "file": "大貴/大貴の強み.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "仕事/シミュラクラ.md",
+            "file": "大貴/大貴の強み.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -169,5 +169,7 @@
     }
   },
   "active": "02bfbff6ea256f75",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "仕事/シミュラクラ.md"
+  ]
 }
