@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信吾/信吾の強み.md",
+                "file": "仕事/シミュラクラ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "信吾の強み"
+              "title": "シミュラクラ"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "信吾/信吾の強み.md",
+            "file": "仕事/シミュラクラ.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "信吾/信吾の強み.md",
+            "file": "仕事/シミュラクラ.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "信吾/信吾の強み.md",
+            "file": "仕事/シミュラクラ.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -170,9 +170,10 @@
   },
   "active": "02bfbff6ea256f75",
   "lastOpenFiles": [
-    "大貴/2026-07-23.md",
-    "信吾/信吾の強み.md",
     "大貴/大貴の強み.md",
+    "信吾/信吾の強み.md",
+    "大貴/大貴のインターン.md",
+    "大貴/2026-07-23.md",
     "仕事/シミュラクラ.md"
   ]
 }
