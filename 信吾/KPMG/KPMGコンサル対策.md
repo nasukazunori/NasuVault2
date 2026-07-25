@@ -1,0 +1,1 @@
+![[24th_Global_Automotive_Survey_要約.docx]]![[KPMG_ケース面接_振り返り-5.docx]]![[jp-auto-survey2022-outlook.pdf]]![[24th-global-automotive-executive-survey-report.pdf]]
