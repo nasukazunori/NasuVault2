@@ -111,16 +111,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "三井住友.md",
+                "file": "信吾/銀行研究/三井住友.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "三井住友"
             }
+          },
+          {
+            "id": "e412d399722677dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "信吾/銀行研究/りそな.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "りそな"
+            }
+          },
+          {
+            "id": "6bdfc9b0818d9a2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大貴/ドコモ企業研究.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ドコモ企業研究"
+            }
+          },
+          {
+            "id": "cfa52f4a13b47ba0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "信吾/KPMG/KPMG対策.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "KPMG対策"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -267,28 +309,32 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "7af893c9e5f7d90b",
+  "active": "cfa52f4a13b47ba0",
   "lastOpenFiles": [
     "信吾/銀行研究/三菱UFJ信託.md",
-    "三井住友.md",
-    "信吾/みずほ信託銀行.md",
     "信吾/銀行研究/三菱UFJ.pdf",
-    "信吾/信吾のインターン.md",
+    "信吾/銀行研究/みずほ.pdf",
     "信吾/銀行研究/みずほ.md",
-    "信吾/銀行研究/みずほ.pdf",
-    "信吾/銀行研究/銀行研究.md",
-    "無題のフォルダ",
-    "信吾/銀行研究/みずほ.pdf",
-    "三井住友トラスト.pdf",
-    "三井住友トラスト 1.pdf",
-    "信吾/銀行研究",
-    "みずほ信託銀行_面接対策.docx",
-    "みずほ銀行 (1).docx",
+    "信吾/みずほ信託銀行.md",
     "信吾/KPMG/KPMG最近のレポート.md",
-    "KPMG最近の6レポート_1ページ要約_詳細版.docx",
-    "大貴/ドコモ企業研究.md",
-    "大貴/大貴のインターン.md",
     "信吾/KPMG/KPMGコンサル対策.md",
+    "信吾/KPMG/jp-auto-survey2022-outlook.pdf",
+    "信吾/KPMG/24th-global-automotive-executive-survey-report.pdf",
+    "三井住友.md",
+    "みずほ銀行 (1).docx",
+    "みずほ信託銀行_面接対策.docx",
+    "KPMG最近の6レポート_1ページ要約_詳細版.docx",
+    "KPMG_ケース面接_振り返り-5.docx",
+    "24th_Global_Automotive_Survey_要約.docx",
+    "KPMG_ケース面接_振り返り-4.docx",
+    "大貴/ドコモ企業研究.md",
+    "信吾/KPMG/KPMG対策.md",
+    "大貴/大貴のインターン.md",
+    "信吾/銀行研究/りそな.md",
+    "信吾/銀行研究/銀行比較.md",
+    "信吾/銀行研究/三井住友.md",
+    "信吾/信吾のインターン.md",
+    "信吾/銀行研究/銀行研究.md",
     "仕事/シミュラクラ.md",
     "大貴/大貴の強み.md",
     "信吾/信吾の強み.md",
