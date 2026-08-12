@@ -213,8 +213,7 @@
               "title": "グラフビュー"
             }
           }
-        ],
-        "currentTab": 14
+        ]
       }
     ],
     "direction": "vertical"
@@ -366,7 +365,7 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "8aa64b5f6a066665",
+  "active": "02bfbff6ea256f75",
   "lastOpenFiles": [
     "信吾/芙蓉総合リース",
     "信吾/信吾のインターン.md",
