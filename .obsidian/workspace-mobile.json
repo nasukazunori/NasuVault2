@@ -195,16 +195,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "資料作成のポイント.md",
+                "file": "大貴/ドコモ企業研究.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "資料作成のポイント"
+              "title": "ドコモ企業研究"
+            }
+          },
+          {
+            "id": "57c1281fde34e206",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "グラフビュー"
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -220,7 +230,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": true,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
           "title": "ファイルエクスプローラ"
@@ -277,7 +289,10 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {},
+          "state": {
+            "showSearch": false,
+            "searchQuery": ""
+          },
           "icon": "lucide-bookmark",
           "title": "ブックマーク"
         }
@@ -351,15 +366,28 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "c74f1f5bcd2269e4",
+  "active": "8aa64b5f6a066665",
   "lastOpenFiles": [
+    "信吾/芙蓉総合リース",
+    "信吾/信吾のインターン.md",
+    "無題のファイル 1.md",
+    "無題のフォルダ",
+    "信吾/信吾の強み.md",
+    "仕事/生成AIの弱点.md",
+    "事業者を巻き込むことが難しい.md",
+    "仕事/シミュラクラ.md",
+    "大貴/大貴の強み.md",
+    "無題のファイル.md",
+    "大貴/ドコモ企業研究.md",
+    "大貴/ドコモインターン情報.md",
+    "信吾/みずほ信託銀行.md",
+    "資料作成のポイント.md",
     "大貴/ドコモインターン_新事業進め方.md",
     "大貴/添付ファイル/想定テーマ整理_基盤とアプリの構造.docx",
     "大貴/添付ファイル/主要ポイント会員属性の偏り比較.pptx",
     "大貴/添付ファイル/ドコモインターン新事業提案_ストーリーライン整理.docx",
     "大貴/添付ファイル/テーマ選定までのストーリー.pptx",
     "大貴/ドコモ新事業ストーリー.md",
-    "資料作成のポイント.md",
     "仕事/和徳/和徳の経歴.md",
     "仕事/和徳/添付ファイル/【那須】参考資料＿対外露出.pdf",
     "仕事/和徳/添付ファイル",
@@ -369,21 +397,12 @@
     "仕事/和徳",
     "信吾/KPMG/KPMG最近のレポート.md",
     "信吾/KPMG/KPMGコンサル対策.md",
-    "信吾/みずほ信託銀行.md",
-    "信吾/信吾のインターン.md",
     "信吾/銀行研究/三井住友.md",
-    "信吾/銀行研究/添付ファイル/三井住友トラスト.pdf",
     "信吾/銀行研究/みずほ.md",
     "大貴/ドコモ_ビジネス創造インターンシップ_事前課題.md",
     "信吾/銀行研究/三菱UFJ信託.md",
-    "大貴/ドコモ企業研究.md",
     "大貴/大貴のインターン.md",
     "信吾/銀行研究/りそな.md",
-    "信吾/銀行研究/銀行比較.md",
-    "信吾/銀行研究/銀行研究.md",
-    "仕事/シミュラクラ.md",
-    "大貴/大貴の強み.md",
-    "信吾/信吾の強み.md",
-    "大貴/2026-07-23.md"
+    "信吾/銀行研究/銀行比較.md"
   ]
 }
