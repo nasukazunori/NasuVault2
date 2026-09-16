@@ -5,6 +5,25 @@
 - 2006年頃からCATV・FTTH事業者の買収を進め、通信・電話・インターネット・モバイルをセットで提供するクロスセル戦略を展開してきた歴史がある
 - 近年は「非通信領域の事業拡大」（ISP、IoT、セキュリティ、リテール）と「注力事業への資本参加」（コンビニ、サイバーセキュリティ）の両方が見られる
 
+## なぜKDDIはM&Aに積極的なのか
+
+1. **国内通信市場の成熟**：携帯各社のサービス同質化、格安SIM（MVNO）の普及、人口減少により、通信事業単体では成長エンジンとして限界がある
+2. **「サテライトグロース戦略」という中期経営戦略の骨格**：通信を中心（コア）に据えつつ、周囲を回る"衛星（サテライト）"のように非通信事業を配置して成長を狙う成長モデル
+   - **Orbit1（内側の軌道）**：DX・金融・エネルギー → 営業利益の二桁成長CAGRを目標とする中核の非通信事業
+   - **Orbit2（外側の軌道）**：モビリティ・宇宙・ヘルスケア・Web3/メタバース・スポーツエンタメ → 次の成長領域として育成中
+3. M&Aは、この軌道上の事業を自前でゼロから育てるより**速く・確実に事業基盤（顧客基盤・技術・人材）を獲得する手段**として位置づけられている
+
+## 無限∞ラボ（KDDI ∞ Labo）とM&Aの関係
+
+無限∞ラボは、上記の戦略を支える「入口」の仕組み。
+- **2011年設立**、大企業初のスタートアップアクセラレータープログラム。現在は事業共創プラットフォームへ進化
+- 併設の**KDDI Open Innovation Fund（KOIF）**というCVC（2012年設立、Global Brainsと共同運営、運用額約400億円、投資先147社）が、スタートアップへの出資母体になっている
+- **実例**：[[ソラコム]]の完全子会社化（2017年）は、2016年に無限∞ラボ／KOIF経由の協業から始まり、事業を育てた末にM&Aへ発展したケース
+
+つまりKDDIのM&Aには2段構えの型がある。
+1. **大型TOBで即戦力を獲得**（ローソン・ラックのように、既に確立した事業・ブランドを丸ごと取り込む）
+2. **無限∞ラボ/KOIFで早期に種をまき、育ってから買収**（ソラコムのように、小さくco-creationして結果が出たら資本参加を深める）
+
 ## 主要M&A一覧（時系列）
 
 | 時期 | 対象 | 概要 | 金額 | 目的・位置づけ |
@@ -39,3 +58,7 @@
 - [KDDIのケーブルテレビ関連事業をJ:COMに集約](https://newsreleases.jcom.co.jp/news/20230728_8173.html)（JCOM、2023年7月発表）
 - [2026年3月期決算 決算詳細資料](https://www.kddi.com/extlib/files/corporate/ir/library/presentation/2026/pdf/kddi_260512_data_LBXYp4.pdf)（KDDI、2026年5月12日発表）
 - [KDDIが次世代衛星「Starlink Mobile V2」サービス提供へ](https://buzzap.jp/news/20260915-kddi-starlink-mobile-v2/)
+- [サテライトグロース戦略](https://www.kddi.com/vision/satellite-growth/)（KDDI公式サイト）
+- [KDDI ∞ Labo（無限ラボ）| KDDI Open Innovation Program](https://www.kddi.com/open-innovation-program/mugenlabo/)（KDDI公式サイト）
+- [未来を創るCVC——KDDI∞Laboは事業創出の「舞台装置」](https://universe.globalbrains.com/posts/creating-the-future-cvc-kddi-labo)（GB Universe）
+- [ソラコムとの共創事例から紐解くオープンイノベーションの有用性](https://tomoruba.eiicon.net/articles/3419)（TOMORUBA）
